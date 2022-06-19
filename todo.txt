@@ -1,0 +1,2 @@
+1) Web server to send ids
+2) Auth as command line option
